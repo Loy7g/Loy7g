@@ -30,10 +30,32 @@
 
 #
 
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@loy7" target="_blank" style="text-decoration: none; outline: none; box-shadow: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="40px" style="display: block;" />
+  </a>
 
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/loy7_g" target="_blank" style="text-decoration: none; outline: none; box-shadow: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40px" style="display: block;" />
+  </a>
 
+  <!-- Discord -->
+  <a href="https://discordapp.com/users/LOY#6380" target="_blank" style="text-decoration: none; outline: none; box-shadow: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" width="40px" style="display: block;" />
+  </a>
 
+  <!-- Gmail -->
+  <a href="mailto:lianthg07@gmail.com" target="_blank" style="text-decoration: none; outline: none; box-shadow: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40px" style="display: block;" />
+  </a>
 
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/maximus-rosas-burgos-30a048276/" target="_blank" style="text-decoration: none; outline: none; box-shadow: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40px" style="display: block;" />
+  </a>
+</div>
 
 
 
