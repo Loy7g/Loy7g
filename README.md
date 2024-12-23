@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Maximus, também conhecido como Loy
 
 - 🔭 Hoje trabalho com projetos de desenvolvimento web/Back-End e estou em busca de uma oportunidade de emprego
-- 🌱 Estudando Node.Js, Websockets e Python
+- 🌱 Estudando JavaScript, Java e Python
 - 😄 Pronomes: Ele/Dele
 
 <picture>
