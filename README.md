@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com projetos de desenvolvimento web/Back-End e estou em busca de uma oportunidade de emprego
 - 🌱 Estudando JavaScript e Java 
 - 😄 Pronomes: Ele/Dele
-- 📖 Estudando Inglês constantemente a mais de 1 ano, atualmente meu nível segundo o EfSet é B2
+- 📖 Estudando Inglês constantemente a mais de 1 ano, atualmente meu nível é B2
 
 <picture>
   <source
