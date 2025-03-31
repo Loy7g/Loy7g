@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Maximus, também conhecido como Loy
 
-- 🔭 Hoje trabalho com projetos de desenvolvimento web/Back-End e estou em busca de uma oportunidade de emprego
+- 🔭 Hoje trabalho com projetos de desenvolvimento web e estou em busca de uma oportunidade de emprego
 - 🌱 Estudando JavaScript e Java 
 - 😄 Pronomes: Ele/Dele
 - 📖 Estudando Inglês constantemente a mais de 1 ano, atualmente meu nível é B2
