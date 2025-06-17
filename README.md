@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Maximus, também conhecido como Loy
 
 - 🔭 Hoje trabalho com projetos de desenvolvimento web e Fullstack
-- 🌱 Estudando TypeScript, Azure, Java, Spring & Angular
+- 🌱 Estudando JavaScript & TypeScript, Azure, Java, Spring & Angular
 - 😄 Pronomes: Ele/Dele
 - 📖 Estudando Inglês constantemente a mais de 1 ano, atualmente meu nível é B2
 
