@@ -29,7 +29,7 @@
   <img alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS3" title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   
- <img align="right" alt="Loy" src="https://github.com/user-attachments/assets/6292b373-e4a5-40d3-9cbe-918cb9a913f6" style="width: 165px; float: right; margin-left: 10px;">
+ <img align="right" alt="Loy" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmR1bjV2Z2h0dHpnNWo3OG42bjZ2YnA3NXBsMTRjcDRrZmFjZGtyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2vLM9a7LG3RUPiYLNB/giphy.gif" style="width: 165px; float: right; margin-left: 10px;">
 </div>
 
 #
