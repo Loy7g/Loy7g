@@ -15,13 +15,9 @@
 
 ---
 
-## 🛠️ Tech Stack 
+## 🛠️ Tech Stack
 
 <div align="center">
-  
-
-  </br>
-  
   <img alt="C#" title="C#" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img alt=".NET" title=".NET" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -31,15 +27,11 @@
   <img alt="Node.js" title="Node.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img alt="Java" title="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img alt="Spring" title="Spring" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img alt="Python" title="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="HTML5" title="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS3" title="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  
-  </div>
-
+</div>
 
 </br>
-
 
 <div align="center">
   <picture>
@@ -55,11 +47,10 @@
   </picture>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=loy7g&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ffa500&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff" height="200" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loy7g&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=400&hide=css&langs_count=7" height="200" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loy7g&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=445&hide=css&langs_count=7" />
-</div>
 
 ---
 
@@ -86,9 +77,9 @@
   <img src="https://komarev.com/ghpvc/?username=loy7g&color=58a6ff&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views" />
 </div>
 
-<div align="center">
-
 </br>
+
+<div align="center">
   
   **"Transformando ideias em código, código em soluções."** ✨
   
