@@ -1,4 +1,4 @@
-# Olá! Eu sou o Maximus 👋
+# Olá! Eu sou o Maximus 
 *Também conhecido como Loy*
 
 <div align="center">
@@ -15,11 +15,13 @@
 
 ---
 
-## 🛠️ Tech Stack & Most Used Languages
+## 🛠️ Tech Stack 
 
 <div align="center">
   
-  ### Linguagens & Tecnologias
+
+  </br>
+  
   <img alt="C#" title="C#" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img alt=".NET" title=".NET" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -31,11 +33,13 @@
   <img alt="Spring" title="Spring" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img alt="Python" title="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="HTML5" title="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS3" title="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  
   </div>
 
 
+</br>
 
-## 📊 GitHub Stats
 
 <div align="center">
   <picture>
@@ -59,14 +63,6 @@
 
 ---
 
-## 🎯 Atividade de Commits
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loy7g&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" />
-</div>
-
----
-
 ## 🌐 Conecte-se comigo
 
 <div align="center">
@@ -84,13 +80,15 @@
   </a>
 </div>
 
----
+</br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=loy7g&color=58a6ff&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views" />
 </div>
 
 <div align="center">
+
+</br>
   
   **"Transformando ideias em código, código em soluções."** ✨
   
