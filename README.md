@@ -8,9 +8,9 @@
 ## 🚀 Sobre mim
 
 - 🔭 **Desenvolvedor Web & Fullstack** - Construindo soluções modernas e eficientes
-- 🌱 **Aprendendo:** .NET, C#, Microserviços, Arquiteturas, React e I.A
+- 🌱 **Aprendendo:** Spring, Java, Microserviços, Arquiteturas, React e I.A
 - 🎯 **Objetivo:** Intercâmbio internacional em breve!
-- 📖 **Idiomas:** Português (nativo), Inglês (B2 - 1+ ano de estudos)
+- 📖 **Idiomas:** Português (nativo), Inglês (B2.4 - 2+ ano de estudos)
 - 😄 **Pronomes:** Ele/Dele
 
 ---
